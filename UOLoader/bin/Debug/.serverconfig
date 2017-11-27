@@ -1,0 +1,15 @@
+{
+"UpdatedAt": "2012-04-23T18:25:43.511Z",
+"NewsUri": "http://ultima-dm.pl/news.json",
+"Files": [
+    { "Name": "login.cfg",
+      "Uri": "http://ultima-dm.pl/Login.cfg",
+      "Version": 3,
+      "RequiresUnzip": false },
+    { "Name": "DMR.zip",
+      "Uri": "http://ultima-dm.pl/dmr.zip",
+      "Version": 3,
+      "RequiresUnzip": true }
+],
+"FullUoDownload": "http://ultima-dm.pl/dmr.zip"
+}

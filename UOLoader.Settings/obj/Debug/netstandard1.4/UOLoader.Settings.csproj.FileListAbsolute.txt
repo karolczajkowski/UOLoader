@@ -1,0 +1,8 @@
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Settings\bin\Debug\netstandard1.4\UOLoader.Settings.deps.json
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Settings\bin\Debug\netstandard1.4\UOLoader.Settings.dll
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Settings\obj\Debug\netstandard1.4\UOLoader.Settings.csprojResolveAssemblyReference.cache
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Settings\obj\Debug\netstandard1.4\UOLoader.Settings.csproj.CoreCompileInputs.cache
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Settings\obj\Debug\netstandard1.4\UOLoader.Settings.AssemblyInfo.cs
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Settings\bin\Debug\netstandard1.4\UOLoader.Settings.pdb
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Settings\obj\Debug\netstandard1.4\UOLoader.Settings.dll
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Settings\obj\Debug\netstandard1.4\UOLoader.Settings.pdb
