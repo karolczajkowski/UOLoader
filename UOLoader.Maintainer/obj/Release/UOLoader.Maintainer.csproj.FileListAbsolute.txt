@@ -1,0 +1,11 @@
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Maintainer\bin\Release\UOLoader.Maintainer.exe.config
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Maintainer\bin\Release\UOLoader.Maintainer.exe
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Maintainer\bin\Release\UOLoader.Maintainer.pdb
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Maintainer\bin\Release\UOLoader.Settings.dll
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Maintainer\bin\Release\UOLoader.Settings.pdb
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Maintainer\obj\Release\UOLoader.Maintainer.csprojResolveAssemblyReference.cache
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Maintainer\obj\Release\UOLoader.Maintainer.Properties.Resources.resources
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Maintainer\obj\Release\UOLoader.Maintainer.csproj.GenerateResource.Cache
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Maintainer\obj\Release\UOLoader.Maintainer.csproj.CoreCompileInputs.cache
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Maintainer\obj\Release\UOLoader.Maintainer.exe
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Maintainer\obj\Release\UOLoader.Maintainer.pdb

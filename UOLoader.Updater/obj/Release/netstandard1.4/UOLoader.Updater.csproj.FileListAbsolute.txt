@@ -1,0 +1,8 @@
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Updater\bin\Release\netstandard1.4\UOLoader.Updater.deps.json
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Updater\bin\Release\netstandard1.4\UOLoader.Updater.dll
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Updater\bin\Release\netstandard1.4\UOLoader.Updater.pdb
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Updater\obj\Release\netstandard1.4\UOLoader.Updater.csprojResolveAssemblyReference.cache
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Updater\obj\Release\netstandard1.4\UOLoader.Updater.csproj.CoreCompileInputs.cache
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Updater\obj\Release\netstandard1.4\UOLoader.Updater.AssemblyInfo.cs
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Updater\obj\Release\netstandard1.4\UOLoader.Updater.dll
+C:\Users\Karol\source\repos\UOLoader\UOLoader.Updater\obj\Release\netstandard1.4\UOLoader.Updater.pdb

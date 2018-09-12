@@ -1,0 +1,19 @@
+{
+"UpdatedAt": "2013-04-23T18:25:43.511Z",
+"NewsUri": "http://api.ultima-dm.pl/shard/news/",
+"Files": [
+    { "Name": "login.cfg",
+      "Uri": "http://api.ultima-dm.pl/uoloaderfiles/Login.cfg",
+      "Version": 1,
+      "RequiresUnzip": false },
+    { "Name": "maps.zip",
+      "Uri": "http://api.ultima-dm.pl/uoloaderfiles/mapfiles.zip",
+      "Version": 3,
+      "RequiresUnzip": true },
+    { "Name": "new-map.zip",
+      "Uri": "http://api.ultima-dm.pl/uoloaderfiles/new-map.zip",
+      "Version": 1,
+      "RequiresUnzip": true }
+],
+"FullUoDownload": "http://api.ultima-dm.pl/dmr.zip"
+}
