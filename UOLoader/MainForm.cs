@@ -74,7 +74,10 @@ namespace UOLoader
       }
 
       private void DownloadedUpdates(object sender, EventArgs eventArgs) {
-         Process.Start(Path.Combine(controller.Settings.Values.UltimaPath, "client.exe"));
+
+         var processInfo = new ProcessStartInfo(Path.Combine(controller.Settings.Values.UltimaPath, "client_dmr.exe"));
+         processInfo.WorkingDirectory = controller.Settings.Values.UltimaPath;
+         Process.Start(processInfo);
       }
 
       private void FileDecompressionEnded(object sender, FileDecompressionEndedEventArgs fileDecompressionEndedEventArgs) {
@@ -111,7 +114,7 @@ namespace UOLoader
          // first we sort and only take the last news item
 
          List<NewsEntry> news = newsLoadedEventArgs.News;
-         NewsEntry latest = news.OrderBy(n => n.Published).FirstOrDefault();
+         NewsEntry latest = news.OrderByDescending(n => n.Published).FirstOrDefault();
 
          UI.SetLabelText(TitleLabel, String.Format(TitleLabel.Text, latest.Title));
          UI.SetLabelText(authorLabel, String.Format(authorLabel.Text, latest.Author));
@@ -367,6 +370,11 @@ namespace UOLoader
          }
 
          controller.DownloadUpdates();
+      }
+
+      private void ContinueButton_Click(object sender, EventArgs e) {
+         MessageBox.Show("Funkcja nie zostala zaimplementowana");
+
       }
    }
 }

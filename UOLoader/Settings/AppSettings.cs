@@ -42,7 +42,7 @@ namespace UOLoader.Settings
             FacebookLink = "https://www.facebook.com/Dream-Masters-Revolution-141490746505209/",
             ServerInformationUri = "http://ultima-dm.pl/server.json",
             ShardName = "Dream Masters: Revolution",
-            Version = 1,
+            Version = 2,
             WebsiteLink = "http://ultima-dm.pl",
             WindowTitle = $"UOLoader for Dream Masters: Revolution",
             UltimaPath = RegistryChecker.RegistryChecker.GetUoPath()

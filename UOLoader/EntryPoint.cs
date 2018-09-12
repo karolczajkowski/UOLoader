@@ -15,13 +15,16 @@ namespace UOLoader
          if (!RegistryChecker.IsUoLoaderInstalled()) {
             var form = new InstallationForm(controller);
             form.ShowDialog();
+            // Fix to a bug where Setting's UO path was incorrect
+            controller.Settings.Values.UltimaPath = RegistryChecker.GetUoPath();
+            controller.Settings.Save();
          }
+
+         
 
          var mainForm = new MainForm(controller);
          mainForm.ShowDialog();
 
-         // Below we will show our main form.
-         //var mainForm = 
 
       }
    }

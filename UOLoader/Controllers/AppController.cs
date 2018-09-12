@@ -86,6 +86,11 @@ namespace UOLoader.Controllers
       /// Signals from MainForm that the form is ready to gather information
       /// </summary>
       public async Task Ready() {
+         // goqsane: This is to prevent the settings being empty bug
+         if (Settings.Values.UltimaPath == String.Empty) {
+            Settings.Values.UltimaPath = RegistryChecker.GetUoPath();
+            Settings.Save();
+         }
          await DownloadServerInformationAsync();
       }
 

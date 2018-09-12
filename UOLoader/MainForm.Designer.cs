@@ -353,6 +353,7 @@
          this.ContinueButton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
          this.ContinueButton.TabIndex = 22;
          this.ContinueButton.TabStop = false;
+         this.ContinueButton.Click += new System.EventHandler(this.ContinueButton_Click);
          // 
          // label3
          // 

@@ -2,41 +2,24 @@
 {
     "Published": "2012-04-23T18:25:43.511Z",
     "Author": "goqsane",
-    "Title": "Spora ilosc zmian na swiecie VF. Jestesmy serio podekscytowani!",
+    "Title": "Testowy UP!",
     "NewsElements": [
 	{
-    "Type": "Addition",
+    "Type": "Undefined",
     "Scope": "Kamienie miasta",
-    "ChangeText": "Zmieniono kamienie miasta. Od teraz beda one czerwone. I beda tez na maxa pojebane. Ale to juz mniejsza o to...",
+    "ChangeText": "Serwer Dream Masters: Revolution wlasnie wkroczyl w faze beta",
     "Author": "g"
 	},
 	{
-    "Type": "Deletion",
+    "Type": "Website",
     "Scope": "Kapcie",
-    "ChangeText": "Sprzedano FIATA 126p...",
-    "Author": "g"
-	},
-	{
-    "Type": "Modification",
-    "Scope": "Kamienie miasta",
-    "ChangeText": "FIFA 98 zostala wlaczona na serwerze. Zyczymy powodzenia!",
-    "Author": "g"
-	},
-	{
-    "Type": 6,
-    "Scope": "Kapcie",
-    "ChangeText": "Babcia kupila juz prezenty na swieta",
-    "Author": "g"
-	},	{
-    "Type": 6,
-    "Scope": "Kapcie",
-    "ChangeText": "Babcia kupila juz prezenty na swieta. Troche ja pojebalo no ale co zrobic. Takie sa juz babcie. Ogolnie to mam nadzieje ze wszyscy sie tutaj dobrze bawia!",
+    "ChangeText": "Dodano wiki. Wiecej informacji na http://wiki.ultima-dm.pl",
     "Author": "g"
 	}
-
-
-
-
-    ]
+]
 }
 ]
+
+
+
+
